@@ -3,7 +3,7 @@
 
 This notebook analyzes raw A/B test data from an e-commerce experiment. It compares how users interacted with two homepage variants (A and B) by counting unique users and calculating conversion rates for each funnel step.
 
-## ✅ What It Does
+## What It Does
 
 - Loads test data from an Excel file
 - Counts:
@@ -17,12 +17,12 @@ This notebook analyzes raw A/B test data from an e-commerce experiment. It compa
 - Calculates:
   - Conversion Rate (CR) for each action
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Python
 - pandas, numpy
 
-## 🚀 How to Run
+## How to Run
 
 1. Install dependencies:
    ```bash
